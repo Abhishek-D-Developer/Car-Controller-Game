@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 769c2cffd07404268b9e452d0f57f8e3
+timeCreated: 1567930155
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wheelShape: {fileID: 115660, guid: c4b1e6c451cdd40998befa14853156d8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
